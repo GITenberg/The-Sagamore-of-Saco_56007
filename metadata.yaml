@@ -1,0 +1,35 @@
+_repo: The-Sagamore-of-Saco_56007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Elizabeth Oakes Prince
+    aliases:
+    - Helfenstein, Ernest
+    - Smith, E. Oakes (Elizabeth Oakes)
+    - Smith, Oakes
+    - Smith, Seba, Mrs.
+    birthdate: 1806
+    deathdate: 1893
+    gutenberg_agent_id: '48629'
+    url: http://www.gutenberg.org/2009/agents/48629
+description: ''
+gutenberg_issued: '2017-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Algonquian Indians -- Fiction'
+- !lcsh 'Indians of North America -- Kings and rulers -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Romance fiction'
+- !lcsh 'Saco (Me.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Unrequited love -- Fiction'
+- GITenberg
+title: The Sagamore of Saco
+url: http://www.gutenberg.org/ebooks/56007
